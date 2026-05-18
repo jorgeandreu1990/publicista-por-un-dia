@@ -1,0 +1,1141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260518155744X34LFL</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605181557446JMGU7</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Publicista por un día</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Proyecto de Lengua Castellana y Literatura (4º ESO)</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Jorge González Jurado</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Proyecto sobre textos publicitarios y uso responsable de las TICs</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779110372796</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1779081998526-x6a1o1gn6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Publicista por un día</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Publicista por un día</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Publicista por un día</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779081998526-x6a1o1gn6</odePageId>
+      <odeBlockId>block-1779082037806-3xn3ckom4</odeBlockId>
+      <blockName>Introducción</blockName>
+      <iconName>start</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779081998526-x6a1o1gn6</odePageId>
+          <odeBlockId>block-1779082037806-3xn3ckom4</odeBlockId>
+          <odeIdeviceId>idevice-1779082037803-v9kq6b6eq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">¡Bienvenidos al proyecto <em>Publicista por un día</em>!</p>
+<p style="text-align: justify;">Un proyecto de Lengua Castellana y Literatura para 4º de ESO que te permitirá convertirte en publicista, estudiar un producto y venderlo al público. Y lo más importante: ¡utilizando el humor para ello!</p>
+<p style="text-align: justify;">Entra y paséate por todas las páginas para aprender a crear contenidos atractivos de forma divertida y promocionar un producto obsoleto como si tuvieras en tus manos un dispositivo electrónico de última generación.</p>
+<p style="text-align: justify;">¿Estás preparado/a? ¡Vamos a aprender!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779082037803-v9kq6b6eq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">¡Bienvenidos al proyecto <em>Publicista por un día</em>!</p>\n<p style=\"text-align: justify;\">Un proyecto de Lengua Castellana y Literatura para 4º de ESO que te permitirá convertirte en publicista, estudiar un producto y venderlo al público. Y lo más importante: ¡utilizando el humor para ello!</p>\n<p style=\"text-align: justify;\">Entra y paséate por todas las páginas para aprender a crear contenidos atractivos de forma divertida y promocionar un producto obsoleto como si tuvieras en tus manos un dispositivo electrónico de última generación.</p>\n<p style=\"text-align: justify;\">¿Estás preparado/a? ¡Vamos a aprender!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779081998526-x6a1o1gn6</odePageId>
+      <odeBlockId>block-1779090643853-azgk1045r</odeBlockId>
+      <blockName>El punto de partida: planificando tu proyecto</blockName>
+      <iconName>experiment</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779081998526-x6a1o1gn6</odePageId>
+          <odeBlockId>block-1779090643853-azgk1045r</odeBlockId>
+          <odeIdeviceId>idevice-1779090643852-3dvb55dom</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">¿Estás cansado/a de estudiar contenidos en el libro de texto? ¡Ahora aprender se convierte de verdad tu actividad diaria!</p>
+<p style="text-align: justify;">Vamos a estudiar los textos periodísticos, centrando nuestra atención en la <strong>publicidad</strong>. ¿Has oído hablar de los iconos, los eslóganes, el triángulo publicitario o publicidad subliminal? Con este proyecto conseguirás aplicar todos esos conceptos para crear tu propio eslogan y vender un producto al público.</p>
+<p style="text-align: justify;">Pero no se trata de vender una tablet o un móvil, sino todo lo contrario: <strong>¡serás capaz de vender un artilugio completamente obsoleto!</strong> Una máquina de escribir, una billetera, un teléfono fijo o inalámbrico, una cabina telefónica, una cámara de fotos analógica, un álbum de fotos, un telefonillo, un libro, un salón de recreativos: cualquier producto puede publicitarse si se utilizan adecuadamente las herramientas que tenemos a nuestro alcance.</p>
+<p style="text-align: justify;">Entonces, ¿serás capaz de destacar las virtudes de un libro en papel? La posibilidad de aumentar el tamaño de la letra acercando los ojos al papel (o el papel a los ojos), de pasar las páginas con un suave movimiento de la mano derecha (agarrando la hoja impar por el borde superior), de destacar los pasajes más interesante con un subrayador fluorescente (o con un lápiz) o de marcar tu propio ritmo de lectura a través de un genial dispositivo introducido en el pliegue central (un marcapáginas). ¿Notas qué recurso se utiliza al destacar esas características? ¡Exacto! <strong>¡La ironía!</strong> Tomemos el tema con humor, vendamos humo de los productos en desuso y nos divertiremos construyendo campañas publicitarias.</p>
+<p style="text-align: justify;">Prepara tu cuaderno de la asignatura para tomar notas. Abre los ojos a lo que tiene que llegar. Agrupa las mesas y las sillas para sentarte con tus compañeros de equipo en un ambiente de trabajo. Suelta tu disposición natural a la risa y empecemos a diseñar.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779090643852-3dvb55dom","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">¿Estás cansado/a de estudiar contenidos en el libro de texto? ¡Ahora aprender se convierte de verdad tu actividad diaria!</p>\n<p style=\"text-align: justify;\">Vamos a estudiar los textos periodísticos, centrando nuestra atención en la <strong>publicidad</strong>. ¿Has oído hablar de los iconos, los eslóganes, el triángulo publicitario o publicidad subliminal? Con este proyecto conseguirás aplicar todos esos conceptos para crear tu propio eslogan y vender un producto al público.</p>\n<p style=\"text-align: justify;\">Pero no se trata de vender una tablet o un móvil, sino todo lo contrario: <strong>¡serás capaz de vender un artilugio completamente obsoleto!</strong> Una máquina de escribir, una billetera, un teléfono fijo o inalámbrico, una cabina telefónica, una cámara de fotos analógica, un álbum de fotos, un telefonillo, un libro, un salón de recreativos: cualquier producto puede publicitarse si se utilizan adecuadamente las herramientas que tenemos a nuestro alcance.</p>\n<p style=\"text-align: justify;\">Entonces, ¿serás capaz de destacar las virtudes de un libro en papel? La posibilidad de aumentar el tamaño de la letra acercando los ojos al papel (o el papel a los ojos), de pasar las páginas con un suave movimiento de la mano derecha (agarrando la hoja impar por el borde superior), de destacar los pasajes más interesante con un subrayador fluorescente (o con un lápiz) o de marcar tu propio ritmo de lectura a través de un genial dispositivo introducido en el pliegue central (un marcapáginas). ¿Notas qué recurso se utiliza al destacar esas características? ¡Exacto! <strong>¡La ironía!</strong> Tomemos el tema con humor, vendamos humo de los productos en desuso y nos divertiremos construyendo campañas publicitarias.</p>\n<p style=\"text-align: justify;\">Prepara tu cuaderno de la asignatura para tomar notas. Abre los ojos a lo que tiene que llegar. Agrupa las mesas y las sillas para sentarte con tus compañeros de equipo en un ambiente de trabajo. Suelta tu disposición natural a la risa y empecemos a diseñar.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779081998526-x6a1o1gn6</odePageId>
+      <odeBlockId>block-1779092231244-23uq04w55</odeBlockId>
+      <blockName>Licencias y seguridad</blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779081998526-x6a1o1gn6</odePageId>
+          <odeBlockId>block-1779092231244-23uq04w55</odeBlockId>
+          <odeIdeviceId>idevice-1779092231241-wbtjoepry</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://view.genially.com/6a07658c716c1923c0a96e22" size="4" width="600" height="800" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779092127104-1tj3lvf14</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Itinerario de actividades</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Itinerario de actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Itinerario de actividades</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779092127104-1tj3lvf14</odePageId>
+      <odeBlockId>block-1779092132208-t4l5fpz35</odeBlockId>
+      <blockName>1. Lectura inicial</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779092127104-1tj3lvf14</odePageId>
+          <odeBlockId>block-1779092132208-t4l5fpz35</odeBlockId>
+          <odeIdeviceId>idevice-1779092132205-ab2jlov89</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://cmplenguayliteratura.wordpress.com/curso-0809/4%C2%BA-eso/1%C2%AA-evaluacion/contenidos/la-publicidad/" size="3" width="600" height="500" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779092127104-1tj3lvf14</odePageId>
+      <odeBlockId>block-1779093708402-g7b6t9ptu</odeBlockId>
+      <blockName>2. Videotutorial: El texto publicitario</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779092127104-1tj3lvf14</odePageId>
+          <odeBlockId>block-1779093708402-g7b6t9ptu</odeBlockId>
+          <odeIdeviceId>idevice-1779093708400-wrzq9qtdx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Observa con atención este video en el que se explican las características de los textos publicitarios. A continuación, responde al cuestionario para comprobar si has comprendido las ideas principales.</p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/Ajbu20JQyUc?si=-RDvxHJOB75WRqop" allowfullscreen="allowfullscreen"></iframe></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779093708400-wrzq9qtdx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Observa con atención este video en el que se explican las características de los textos publicitarios. A continuación, responde al cuestionario para comprobar si has comprendido las ideas principales.</p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/Ajbu20JQyUc?si=-RDvxHJOB75WRqop\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779092127104-1tj3lvf14</odePageId>
+      <odeBlockId>block-1779093802425-kpwctaavp</odeBlockId>
+      <blockName>3. Quiz: ¿Quién quiere ser millonario?</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779092127104-1tj3lvf14</odePageId>
+          <odeBlockId>block-1779093802425-kpwctaavp</odeBlockId>
+          <odeIdeviceId>idevice-1779093802423-3v4cefylm</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://view.genially.com/6a030157636806847222210d" size="3" width="600" height="500" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779092127104-1tj3lvf14</odePageId>
+      <odeBlockId>block-1779093929687-g593n4v85</odeBlockId>
+      <blockName>4. Tu producto final: el spot publicitario</blockName>
+      <iconName>experiment</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779092127104-1tj3lvf14</odePageId>
+          <odeBlockId>block-1779093929687-g593n4v85</odeBlockId>
+          <odeIdeviceId>idevice-1779093929683-2t5j18pg2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Ahora despierta tu creatividad! Es el momento de planificar tu tarea: deberás crear tu propio <strong>spot publicitario </strong>sobre un producto obsoleto. Para ello, sigue estos pasos:</p>
+<div class="exe-fx exe-tabs">
+<h2>Primer paso</h2>
+<p>Escoge un elemento de la lista:</p>
+<p>-Máquina de escribir.</p>
+<p>-Teléfono fijo.</p>
+<p>-Teléfono inalámbrico.</p>
+<p>-Telefonillo.</p>
+<p>-Salón de recreativos.</p>
+<p>-Billetera.</p>
+<p>-Álbum de fotos.</p>
+<p>-Cámara de fotos analógica.</p>
+<h2>Segundo paso</h2>
+<p style="text-align: justify;">Busca información sobre sus características y las posibilidades de promocionarlo a través de la ironía y el humor.</p>
+<p style="text-align: justify;">Por ejemplo, todos sabemos para qué sirve un libro, ¿verdad? Pero si tratamos de hacer publicidad desde un punto de vista irónico y humorístico, debemos compararlo con su equivalente tecnológico, el e-book. Al igual que este producto, el "book" tiene las características de poder aumentar el tamaño de letra si se acerca a los ojos, cambiar la iluminación según coloquemos la lámpara de lectura o realizar anotaciones si pegamos un post-it.</p>
+<p style="text-align: justify;">Reflexiona sobre estas características y elabora una tabla con dos columnas: en una columna escribe su característica analógica y en otra su equivalente digital. A partir de esta columna diseñarás tu discurso irónico.</p>
+<h2>Tercer paso</h2>
+<p style="text-align: justify;">A partir de la tabla anterior, elabora un primer borrador con los chistes que vas a incorporar a tu discurso. Puedes valerte de imágenes o sonidos que luego incluirás en la infografía final.</p>
+<p style="text-align: justify;">No olvides que la calidad es mejor que la cantidad: no intentes provocar la risa a toda costa y continuamente. Tu discurso debe parecer algo serio para vender tu producto. Lo que ocurre es que el producto no tiene esas posibilidades tecnológicas que tanto vas a destacar, y aquí es donde resulta necesario un uso equilibrado de la ironía. </p>
+<h2 style="text-align: justify;">Cuarto paso</h2>
+<p style="text-align: justify;">Ahora es el momento de diseñar la infografía. Para ello, utiliza cualquier herramienta de creación de contenidos (te recomendamos <a href="https://app.genially.com/" title="">Genially</a> o <a href="https://www.canva.com/es_es/">Canva</a>).</p>
+<p style="text-align: justify;">Recuerda que el producto final de tu proyecto debe ser una infografía atractiva para defender tu spot publicitario, ya que a partir de esa imagen tu grupo tendrá que realizar su exposición oral ante un público formado por compañeros y compañeras de otras clases. Esta exposición en vivo servirá de ensayo previo a la grabación de un video que se colgará mediante un enlace privado a <strong>Youtube </strong>y que se entregará en la pestaña correspondiente de <strong>Google Classroom</strong>.</p>
+</div>
+<p>El siguiente video puede ayudarte a refrescar conceptos y a diseñar tu producto final.</p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/zhOVwojZxn0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779093929683-2t5j18pg2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Ahora despierta tu creatividad! Es el momento de planificar tu tarea: deberás crear tu propio <strong>spot publicitario </strong>sobre un producto obsoleto. Para ello, sigue estos pasos:</p>\n<div class=\"exe-fx exe-tabs\">\n<h2>Primer paso</h2>\n<p>Escoge un elemento de la lista:</p>\n<p>-Máquina de escribir.</p>\n<p>-Teléfono fijo.</p>\n<p>-Teléfono inalámbrico.</p>\n<p>-Telefonillo.</p>\n<p>-Salón de recreativos.</p>\n<p>-Billetera.</p>\n<p>-Álbum de fotos.</p>\n<p>-Cámara de fotos analógica.</p>\n<h2>Segundo paso</h2>\n<p style=\"text-align: justify;\">Busca información sobre sus características y las posibilidades de promocionarlo a través de la ironía y el humor.</p>\n<p style=\"text-align: justify;\">Por ejemplo, todos sabemos para qué sirve un libro, ¿verdad? Pero si tratamos de hacer publicidad desde un punto de vista irónico y humorístico, debemos compararlo con su equivalente tecnológico, el e-book. Al igual que este producto, el \"book\" tiene las características de poder aumentar el tamaño de letra si se acerca a los ojos, cambiar la iluminación según coloquemos la lámpara de lectura o realizar anotaciones si pegamos un post-it.</p>\n<p style=\"text-align: justify;\">Reflexiona sobre estas características y elabora una tabla con dos columnas: en una columna escribe su característica analógica y en otra su equivalente digital. A partir de esta columna diseñarás tu discurso irónico.</p>\n<h2>Tercer paso</h2>\n<p style=\"text-align: justify;\">A partir de la tabla anterior, elabora un primer borrador con los chistes que vas a incorporar a tu discurso. Puedes valerte de imágenes o sonidos que luego incluirás en la infografía final.</p>\n<p style=\"text-align: justify;\">No olvides que la calidad es mejor que la cantidad: no intentes provocar la risa a toda costa y continuamente. Tu discurso debe parecer algo serio para vender tu producto. Lo que ocurre es que el producto no tiene esas posibilidades tecnológicas que tanto vas a destacar, y aquí es donde resulta necesario un uso equilibrado de la ironía. </p>\n<h2 style=\"text-align: justify;\">Cuarto paso</h2>\n<p style=\"text-align: justify;\">Ahora es el momento de diseñar la infografía. Para ello, utiliza cualquier herramienta de creación de contenidos (te recomendamos <a href=\"https://app.genially.com/\" title=\"\">Genially</a> o <a href=\"https://www.canva.com/es_es/\">Canva</a>).</p>\n<p style=\"text-align: justify;\">Recuerda que el producto final de tu proyecto debe ser una infografía atractiva para defender tu spot publicitario, ya que a partir de esa imagen tu grupo tendrá que realizar su exposición oral ante un público formado por compañeros y compañeras de otras clases. Esta exposición en vivo servirá de ensayo previo a la grabación de un video que se colgará mediante un enlace privado a <strong>Youtube </strong>y que se entregará en la pestaña correspondiente de <strong>Google Classroom</strong>.</p>\n</div>\n<p>El siguiente video puede ayudarte a refrescar conceptos y a diseñar tu producto final.</p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/zhOVwojZxn0\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779092127104-1tj3lvf14</odePageId>
+      <odeBlockId>block-1779095815635-d19w7r75s</odeBlockId>
+      <blockName>5. Línea temporal</blockName>
+      <iconName>stop</iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779092127104-1tj3lvf14</odePageId>
+          <odeBlockId>block-1779095815635-d19w7r75s</odeBlockId>
+          <odeIdeviceId>idevice-1779095815624-xl31d213z</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://view.genially.com/6a09f3e172c2b9cb895cd6a0" size="3" width="600" height="500" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779092613370-tsp1vi0hk</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779092613370-tsp1vi0hk</odePageId>
+      <odeBlockId>block-1779092837780-7773qji4z</odeBlockId>
+      <blockName>Padlet: itinerario de actividades</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779092613370-tsp1vi0hk</odePageId>
+          <odeBlockId>block-1779092837780-7773qji4z</odeBlockId>
+          <odeIdeviceId>idevice-1779092837777-i26fxkxmt</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/jorge_andreu/abp-publicista-por-un-dia-4-eso-wziq8x2g9liyz8ef" size="4" width="600" height="800" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779092613370-tsp1vi0hk</odePageId>
+      <odeBlockId>block-1779095570053-5d4pmr2as</odeBlockId>
+      <blockName>Symbaloo: herramientas docentes</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779092613370-tsp1vi0hk</odePageId>
+          <odeBlockId>block-1779095570053-5d4pmr2as</odeBlockId>
+          <odeIdeviceId>idevice-1779095570050-eb4nognj7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://jorge10.symbaloo.com/home/mix/13ePH27eHA" title=""><img src="{{context_path}}/content/resources/symbaloo.jpg" width="828" height="471" alt="" /></a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779095570050-eb4nognj7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://jorge10.symbaloo.com/home/mix/13ePH27eHA\" title=\"\"><img src=\"{{context_path}}/content/resources/symbaloo.jpg\" width=\"828\" height=\"471\" alt=\"\" /></a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779092905182-ezgogday3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779092905182-ezgogday3</odePageId>
+      <odeBlockId>block-1779092909237-8w79p31ob</odeBlockId>
+      <blockName>Propuesta didáctica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779092905182-ezgogday3</odePageId>
+          <odeBlockId>block-1779092909237-8w79p31ob</odeBlockId>
+          <odeIdeviceId>idevice-1779092909236-ldr2cllet</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779092909236-ldr2cllet","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779092905182-ezgogday3</odePageId>
+      <odeBlockId>block-1779092967476-lggmduq0i</odeBlockId>
+      <blockName>Itinerario</blockName>
+      <iconName>case</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779092905182-ezgogday3</odePageId>
+          <odeBlockId>block-1779092967476-lggmduq0i</odeBlockId>
+          <odeIdeviceId>idevice-1779092967475-zgqd4z9of</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<table border="1" style="width: 100%;">
+<tbody>
+<tr>
+<th style="width: 33.3333%; background-color: #ecf0f1; text-align: center;">Fases</th>
+<th style="width: 33.3333%; text-align: center; background-color: #ecf0f1;">Objetivo</th>
+<th style="width: 16.7336%; text-align: center; background-color: #ecf0f1;">Sesiones</th>
+<th style="width: 16.7336%; text-align: center; background-color: #ecf0f1;">Criterios de evaluación</th>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: justify;">Fase inicial: lectura inicial, videotutorial y quiz <em>¿Quién quiere ser millonario?</em> </td>
+<td style="width: 33.3333%; text-align: justify;">
+<ul>
+<li>Introducir los conceptos clave a estudiar: los textos publicitarios.</li>
+<li>Afrontar una primera toma de contacto con el proyecto.</li>
+<li>Crear ambiente de trabajo cooperativo.</li>
+</ul>
+</td>
+<td style="width: 16.7336%; text-align: center;">Sesión inicial.</td>
+<td style="width: 16.7336%; text-align: center;">2.1., 4.1.</td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: justify; background-color: #ecf0f1;">
+<p>Fase intermedia 1:</p>
+<ul>
+<li>Asignación de roles y funciones entre los miembros del equipo. </li>
+<li>Cumplimentación de una tabla de tareas para rellenar check.</li>
+</ul>
+</td>
+<td style="width: 33.3333%; text-align: justify; background-color: #ecf0f1;">
+<ul>
+<li>Familiarizar al alumnado con los roles de trabajo cooperativo (capitán, secretario/a, vocal).</li>
+<li>Planificar el desarrollo del proyecto desde la autonomía.</li>
+<li>Organizar funcionamiento del equipo de trabajo.</li>
+</ul>
+</td>
+<td style="width: 16.7336%; text-align: center; background-color: #ecf0f1;">1 sesión.</td>
+<td style="width: 16.7336%; text-align: center; background-color: #ecf0f1;"><br /></td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: justify;">
+<p>Fase intermedia 2:</p>
+<ul>
+<li>Lectura de los pasos a seguir en el itinerario de actividades.</li>
+<li>Búsqueda autónoma de información, recogida de datos sobre el objeto de estudio y puesta en común a través de un documento compartido en Drive. Envío de un enlace público a través de Classroom.</li>
+<li>Elaboración de un guion  y un primer borrador para el spot publicitario.<br /></li>
+<li>Creación de una infografía a través de una herramienta de creación de contenidos digitales.</li>
+</ul>
+</td>
+<td style="width: 33.3333%; text-align: justify;">
+<ul>
+<li>Fomentar el trabajo en equipo.</li>
+<li>Familiarizar al alumnado con la búsqueda autónoma y la gestión de la información recabada.</li>
+<li>Realizar una interpretación crítica de los datos recogidos.</li>
+<li>Producir textos escritos.</li>
+<li>Crear contenidos a través de una herramienta digital.</li>
+</ul>
+</td>
+<td style="width: 16.7336%; text-align: center;">2 sesiones.</td>
+<td style="width: 16.7336%; text-align: center;">
+<p>5.1., 5.2.,</p>
+<p>6.1., 6.2., 6.3.</p>
+<p>9.1.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 33.3333%; text-align: justify; background-color: #ecf0f1;">
+<p>Fase final:</p>
+<ul>
+<li>Exposición oral del spot publicitario, utilizando como soporte la infografía creada con herramientas digitales.</li>
+<li>Grabación de un video con  el contenido definitivo del spot publicitario.</li>
+</ul>
+</td>
+<td style="width: 33.3333%; text-align: justify; background-color: #ecf0f1;">
+<ul>
+<li>Exponer los resultados ante un auditorio.</li>
+<li>Desarrollar las destrezas necesarias para hablar en público.</li>
+<li>Fomentar el trabajo en equipo.</li>
+<li>Potenciar las competencias digitales del alumnado.</li>
+</ul>
+</td>
+<td style="width: 16.7336%; text-align: center; background-color: #ecf0f1;">2 sesiones.</td>
+<td style="width: 16.7336%; text-align: center; background-color: #ecf0f1;">
+<p>3.1., 3.2.</p>
+<p>6.2., 6.3.</p>
+<p><br /></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779092967475-zgqd4z9of","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<table border=\"1\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<th style=\"width: 33.3333%; background-color: #ecf0f1; text-align: center;\">Fases</th>\n<th style=\"width: 33.3333%; text-align: center; background-color: #ecf0f1;\">Objetivo</th>\n<th style=\"width: 16.7336%; text-align: center; background-color: #ecf0f1;\">Sesiones</th>\n<th style=\"width: 16.7336%; text-align: center; background-color: #ecf0f1;\">Criterios de evaluación</th>\n</tr>\n<tr>\n<td style=\"width: 33.3333%; text-align: justify;\">Fase inicial: lectura inicial, videotutorial y quiz <em>¿Quién quiere ser millonario?</em> </td>\n<td style=\"width: 33.3333%; text-align: justify;\">\n<ul>\n<li>Introducir los conceptos clave a estudiar: los textos publicitarios.</li>\n<li>Afrontar una primera toma de contacto con el proyecto.</li>\n<li>Crear ambiente de trabajo cooperativo.</li>\n</ul>\n</td>\n<td style=\"width: 16.7336%; text-align: center;\">Sesión inicial.</td>\n<td style=\"width: 16.7336%; text-align: center;\">2.1., 4.1.</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%; text-align: justify; background-color: #ecf0f1;\">\n<p>Fase intermedia 1:</p>\n<ul>\n<li>Asignación de roles y funciones entre los miembros del equipo. </li>\n<li>Cumplimentación de una tabla de tareas para rellenar check.</li>\n</ul>\n</td>\n<td style=\"width: 33.3333%; text-align: justify; background-color: #ecf0f1;\">\n<ul>\n<li>Familiarizar al alumnado con los roles de trabajo cooperativo (capitán, secretario/a, vocal).</li>\n<li>Planificar el desarrollo del proyecto desde la autonomía.</li>\n<li>Organizar funcionamiento del equipo de trabajo.</li>\n</ul>\n</td>\n<td style=\"width: 16.7336%; text-align: center; background-color: #ecf0f1;\">1 sesión.</td>\n<td style=\"width: 16.7336%; text-align: center; background-color: #ecf0f1;\"><br /></td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%; text-align: justify;\">\n<p>Fase intermedia 2:</p>\n<ul>\n<li>Lectura de los pasos a seguir en el itinerario de actividades.</li>\n<li>Búsqueda autónoma de información, recogida de datos sobre el objeto de estudio y puesta en común a través de un documento compartido en Drive. Envío de un enlace público a través de Classroom.</li>\n<li>Elaboración de un guion  y un primer borrador para el spot publicitario.<br /></li>\n<li>Creación de una infografía a través de una herramienta de creación de contenidos digitales.</li>\n</ul>\n</td>\n<td style=\"width: 33.3333%; text-align: justify;\">\n<ul>\n<li>Fomentar el trabajo en equipo.</li>\n<li>Familiarizar al alumnado con la búsqueda autónoma y la gestión de la información recabada.</li>\n<li>Realizar una interpretación crítica de los datos recogidos.</li>\n<li>Producir textos escritos.</li>\n<li>Crear contenidos a través de una herramienta digital.</li>\n</ul>\n</td>\n<td style=\"width: 16.7336%; text-align: center;\">2 sesiones.</td>\n<td style=\"width: 16.7336%; text-align: center;\">\n<p>5.1., 5.2.,</p>\n<p>6.1., 6.2., 6.3.</p>\n<p>9.1.</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%; text-align: justify; background-color: #ecf0f1;\">\n<p>Fase final:</p>\n<ul>\n<li>Exposición oral del spot publicitario, utilizando como soporte la infografía creada con herramientas digitales.</li>\n<li>Grabación de un video con  el contenido definitivo del spot publicitario.</li>\n</ul>\n</td>\n<td style=\"width: 33.3333%; text-align: justify; background-color: #ecf0f1;\">\n<ul>\n<li>Exponer los resultados ante un auditorio.</li>\n<li>Desarrollar las destrezas necesarias para hablar en público.</li>\n<li>Fomentar el trabajo en equipo.</li>\n<li>Potenciar las competencias digitales del alumnado.</li>\n</ul>\n</td>\n<td style=\"width: 16.7336%; text-align: center; background-color: #ecf0f1;\">2 sesiones.</td>\n<td style=\"width: 16.7336%; text-align: center; background-color: #ecf0f1;\">\n<p>3.1., 3.2.</p>\n<p>6.2., 6.3.</p>\n<p><br /></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779092905182-ezgogday3</odePageId>
+      <odeBlockId>block-1779092957432-jhqtj8jlw</odeBlockId>
+      <blockName>Evaluación: competencias, criterios y saberes básicos</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779092905182-ezgogday3</odePageId>
+          <odeBlockId>block-1779092957432-jhqtj8jlw</odeBlockId>
+          <odeIdeviceId>idevice-1779092957430-w3fh7jck8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-fx exe-tabs">
+<h2>Competencias clave</h2>
+<ul>
+<li>Competencia en comunicación lingüística (CCL)</li>
+<li>Competencia digital (CD)</li>
+<li>Competencia personal, social y de aprender a aprender (CPSAA)</li>
+<li>Competencia ciudadana (CC)</li>
+<li>Competencia emprendedora (CE)</li>
+<li>Competencia en conciencia y expresiones culturales (CCEC)</li>
+</ul>
+<h2>Competencias específicas y criterios de evaluación</h2>
+<table border="1" cellpadding="0" style="width: 100%; height: 933px;">
+<tbody>
+<tr style="height: 33px;">
+<td style="width: 50.6311%; height: 33px;">COMPETENCIA ESPECÍFICA</td>
+<td style="width: 49.3689%; height: 33px;">CRITERIOS DE EVALUACIÓN</td>
+</tr>
+<tr style="height: 225px;">
+<td style="width: 50.6311%; height: 225px; text-align: justify;"> <br />2. Comprender e interpretar textos orales y multimodales, recogiendo el sentido general y la información más relevante, identificando el punto de vista y la intención del emisor y valorando su fiabilidad, su forma y su contenido, para construir conocimiento, para formarse opinión y para ensanchar las posibilidades de disfrute y ocio.</td>
+<td style="width: 49.3689%; height: 225px; text-align: justify;">
+<ul>
+<li>2.1. Comprender el sentido global, la estructura, la información más relevante en función de las necesidades comunicativas y la intención del emisor en textos orales y multimodales de cierta complejidad de diferentes ámbitos, analizando la interacción entre los diferentes códigos.</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 225px;">
+<td style="width: 50.6311%; text-align: justify; height: 225px;">3. Producir textos orales y multimodales con fluidez, coherencia, cohesión y registro adecuado, atendiendo a las convenciones propias de los diferentes géneros discursivos, y participar en interacciones orales con actitud cooperativa y respetuosa, tanto para construir conocimiento y establecer vínculos personales como para intervenir de manera activa e informada en diferentes contextos sociales.</td>
+<td style="width: 49.3689%; height: 225px; text-align: justify;">
+<ul>
+<li>3.1. Realizar exposiciones y argumentaciones orales de cierta extensión y complejidad con diferente grado de planificación sobre temas de interés personal, social, educativo y profesional ajustándose a las convenciones propias de los diversos géneros discursivos, con fluidez, coherencia, cohesión y el registro adecuado en diferentes soportes, utilizando de manera eficaz recursos verbales y no verbales.</li>
+<li>3.2. Participar de manera activa y adecuada en interacciones orales informales, en el trabajo en equipo y en situaciones orales formales de carácter dialogado, con actitudes de escucha activa y estrategias de cooperación conversacional y cortesía lingüística.</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 249px;">
+<td style="width: 50.6311%; text-align: justify; height: 249px;">4. Comprender, interpretar y valorar textos escritos, con sentido crítico y diferentes propósitos de lectura, reconociendo el sentido global y las ideas principales y secundarias, identificando la intención del emisor, reflexionando sobre el contenido y la forma y evaluando su calidad y fiabilidad, para dar respuesta a necesidades e intereses comunicativos diversos y para construir conocimiento.</td>
+<td style="width: 49.3689%; height: 249px;">
+<ul>
+<li style="text-align: justify;">4.1. Comprender e interpretar el sentido global, la estructura, la información más relevante y la intención del emisor de textos escritos y multimodales de cierta complejidad que respondan a diferentes propósitos de lectura, realizando las inferencias necesarias.</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 201px;">
+<td style="width: 50.6311%; text-align: justify; height: 201px;">5. Producir textos escritos y multimodales coherentes, cohesionados, adecuados y correctos, atendiendo a las convenciones propias del género discursivo elegido, para construir conocimiento y para dar respuesta de manera informada, eficaz y creativa a demandas comunicativas concretas.</td>
+<td style="width: 49.3689%; height: 201px; text-align: justify;">
+<ul>
+<li>5.1. Planificar la redacción de textos escritos y multimodales de cierta extensión atendiendo a la situación comunicativa, al destinatario, al propósito y canal; redactar borradores y revisarlos con ayuda del diálogo entre iguales e instrumentos de consulta; y presentar un texto final coherente, cohesionado y con el registro adecuado.</li>
+<li>5.2. Incorporar procedimientos para enriquecer los textos atendiendo a aspectos discursivos, lingüísticos y de estilo, con precisión léxica y corrección ortográfica y gramatical.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="width: 50.6311%; text-align: justify;">6. Seleccionar y contrastar información procedente de diferentes fuentes de manera progresivamente autónoma, evaluando su fiabilidad y pertinencia en función de los objetivos de lectura y evitando los riesgos de manipulación y desinformación, e integrarla y transformarla en conocimiento, para comunicarla desde un punto de vista crítico y personal a la par que respetuoso con la propiedad intelectual.</td>
+<td style="width: 49.3689%; text-align: justify;">
+<ul>
+<li>6.1. Localizar, seleccionar y contrastar de manera progresivamente autónoma información procedente de diferentes fuentes, calibrando su fiabilidad y pertinencia en función de los objetivos de lectura; organizarla e integrarla en esquemas propios, y reelaborarla y comunicarla de manera creativa adoptando un punto de vista crítico respetando los principios de propiedad intelectual.</li>
+<li>6.2. Elaborar trabajos de investigación de manera progresivamente autónoma en diferentes soportes sobre diversos temas de interés académico, personal o social a partir de la información seleccionada.</li>
+<li>6.3. Adoptar hábitos de uso crítico, seguro, sostenible y saludable de las tecnologías digitales en relación a la búsqueda y la comunicación de la información.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="width: 50.6311%; text-align: justify;">9. Movilizar el conocimiento sobre la estructura de la lengua y sus usos y reflexionar de manera progresivamente autónoma sobre las elecciones lingüísticas y discursivas, con la terminología adecuada, para desarrollar la conciencia lingüística, para aumentar el repertorio comunicativo y para mejorar las destrezas tanto de producción oral y escrita como de comprensión e interpretación crítica.</td>
+<td style="width: 49.3689%; text-align: justify;">
+<ul>
+<li>9.1. Revisar los textos propios de manera progresivamente autónoma y hacer propuestas de mejora argumentando los cambios a partir de la reflexión metalingüística e interlingüística con el metalenguaje específico.</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>Saberes básicos</h2>
+<p>B. <strong>Comunicación</strong>:</p>
+<p style="text-align: justify;">Estrategias de producción, comprensión y análisis crítico de textos orales, escritos y multimodales de diferentes ámbitos, con atención conjunta a los siguientes aspectos:</p>
+<p style="text-align: justify;">1. Contexto: componentes del hecho comunicativo.<br /></p>
+<ul>
+<li style="text-align: justify;">Componentes del hecho comunicativo: grado de formalidad de la situación y carácter público o privado; distancia social entre los interlocutores; propósitos comunicativos e interpretación de intenciones; canal de comunicación y elementos no verbales de la comunicación.</li>
+</ul>
+<p>2. Los géneros discursivos:</p>
+<ul>
+<li style="text-align: justify;">Géneros discursivos propios del ámbito social. Redes sociales y medios de comunicación. Etiqueta digital y riesgos de desinformación, manipulación y vulneración de la privacidad en la red. Análisis de la imagen y de los elementos paratextuales de los textos icónico-verbales y multimodales.</li>
+</ul>
+<p>3. Procesos:</p>
+<ul>
+<li style="text-align: justify;">Interacción oral y escrita de carácter informal y formal: cooperación conversacional y cortesía lingüística. Escucha activa, asertividad y resolución dialogada de los conflictos.</li>
+<li>Comprensión oral: sentido global del texto y relación entre sus partes, selección y retención de la información relevante. La intención del emisor. </li>
+<li style="text-align: justify;">Producción oral formal: planificación y búsqueda de información, textualización y revisión. Adecuación a la audiencia y al tiempo de exposición. Elementos no verbales.</li>
+<li style="text-align: justify;">Producción escrita: planificación, textualización, revisión y edición en diferentes soportes. Usos de la escritura para la organización del pensamiento: toma de notas, esquemas, mapas conceptuales, definiciones, resúmenes, etc.</li>
+<li style="text-align: justify;">Alfabetización mediática e informacional: Búsqueda y selección de la información con criterios de fiabilidad, calidad y pertinencia; análisis, valoración, reorganización y síntesis de la información en esquemas propios y transformación en conocimiento; comunicación y difusión de manera creativa y respetuosa con la propiedad intelectual. Utilización de plataformas virtuales para la realización de proyectos escolares.</li>
+</ul>
+<p>4. Reconocimiento y uso discursivo de los elementos lingüísticos.</p>
+<ul>
+<li style="text-align: justify;">La expresión de la subjetividad en textos de carácter expositivo y argumentativo. Identificación y uso de las variaciones de las formas deícticas (fórmulas de confianza y cortesía) en relación con las situaciones de comunicación.</li>
+<li style="text-align: justify;">Recursos lingüísticos para adecuar el registro a la situación de comunicación.</li>
+<li style="text-align: justify;">Mecanismos de cohesión. Conectores textuales distributivos, de orden, contraste, explicación, causa, consecuencia, condición e hipótesis. Mecanismos de referencia interna, gramaticales y léxicos (nominalizaciones e hiperónimos de significado abstracto).</li>
+<li style="text-align: justify;">Uso coherente de las formas verbales en los textos. Correlación temporal en la coordinación y subordinación de oraciones, y en el discurso relatado.</li>
+<li style="text-align: justify;">Corrección lingüística y revisión ortográfica y gramatical de los textos. Uso de diccionarios, manuales de consulta y de correctores ortográficos en soporte analógico o digital.<br /></li>
+</ul>
+<p>D. <strong>Reflexión sobre la lengua</strong>:</p>
+<ul>
+<li style="text-align: justify;">Estrategias de uso progresivamente autónomo de diccionarios y manuales de gramática para obtener información gramatical básica.</li>
+</ul>
+</div>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779092957430-w3fh7jck8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-tabs\">\n<h2>Competencias clave</h2>\n<ul>\n<li>Competencia en comunicación lingüística (CCL)</li>\n<li>Competencia digital (CD)</li>\n<li>Competencia personal, social y de aprender a aprender (CPSAA)</li>\n<li>Competencia ciudadana (CC)</li>\n<li>Competencia emprendedora (CE)</li>\n<li>Competencia en conciencia y expresiones culturales (CCEC)</li>\n</ul>\n<h2>Competencias específicas y criterios de evaluación</h2>\n<table border=\"1\" cellpadding=\"0\" style=\"width: 100%; height: 933px;\">\n<tbody>\n<tr style=\"height: 33px;\">\n<td style=\"width: 50.6311%; height: 33px;\">COMPETENCIA ESPECÍFICA</td>\n<td style=\"width: 49.3689%; height: 33px;\">CRITERIOS DE EVALUACIÓN</td>\n</tr>\n<tr style=\"height: 225px;\">\n<td style=\"width: 50.6311%; height: 225px; text-align: justify;\"> <br />2. Comprender e interpretar textos orales y multimodales, recogiendo el sentido general y la información más relevante, identificando el punto de vista y la intención del emisor y valorando su fiabilidad, su forma y su contenido, para construir conocimiento, para formarse opinión y para ensanchar las posibilidades de disfrute y ocio.</td>\n<td style=\"width: 49.3689%; height: 225px; text-align: justify;\">\n<ul>\n<li>2.1. Comprender el sentido global, la estructura, la información más relevante en función de las necesidades comunicativas y la intención del emisor en textos orales y multimodales de cierta complejidad de diferentes ámbitos, analizando la interacción entre los diferentes códigos.</li>\n</ul>\n</td>\n</tr>\n<tr style=\"height: 225px;\">\n<td style=\"width: 50.6311%; text-align: justify; height: 225px;\">3. Producir textos orales y multimodales con fluidez, coherencia, cohesión y registro adecuado, atendiendo a las convenciones propias de los diferentes géneros discursivos, y participar en interacciones orales con actitud cooperativa y respetuosa, tanto para construir conocimiento y establecer vínculos personales como para intervenir de manera activa e informada en diferentes contextos sociales.</td>\n<td style=\"width: 49.3689%; height: 225px; text-align: justify;\">\n<ul>\n<li>3.1. Realizar exposiciones y argumentaciones orales de cierta extensión y complejidad con diferente grado de planificación sobre temas de interés personal, social, educativo y profesional ajustándose a las convenciones propias de los diversos géneros discursivos, con fluidez, coherencia, cohesión y el registro adecuado en diferentes soportes, utilizando de manera eficaz recursos verbales y no verbales.</li>\n<li>3.2. Participar de manera activa y adecuada en interacciones orales informales, en el trabajo en equipo y en situaciones orales formales de carácter dialogado, con actitudes de escucha activa y estrategias de cooperación conversacional y cortesía lingüística.</li>\n</ul>\n</td>\n</tr>\n<tr style=\"height: 249px;\">\n<td style=\"width: 50.6311%; text-align: justify; height: 249px;\">4. Comprender, interpretar y valorar textos escritos, con sentido crítico y diferentes propósitos de lectura, reconociendo el sentido global y las ideas principales y secundarias, identificando la intención del emisor, reflexionando sobre el contenido y la forma y evaluando su calidad y fiabilidad, para dar respuesta a necesidades e intereses comunicativos diversos y para construir conocimiento.</td>\n<td style=\"width: 49.3689%; height: 249px;\">\n<ul>\n<li style=\"text-align: justify;\">4.1. Comprender e interpretar el sentido global, la estructura, la información más relevante y la intención del emisor de textos escritos y multimodales de cierta complejidad que respondan a diferentes propósitos de lectura, realizando las inferencias necesarias.</li>\n</ul>\n</td>\n</tr>\n<tr style=\"height: 201px;\">\n<td style=\"width: 50.6311%; text-align: justify; height: 201px;\">5. Producir textos escritos y multimodales coherentes, cohesionados, adecuados y correctos, atendiendo a las convenciones propias del género discursivo elegido, para construir conocimiento y para dar respuesta de manera informada, eficaz y creativa a demandas comunicativas concretas.</td>\n<td style=\"width: 49.3689%; height: 201px; text-align: justify;\">\n<ul>\n<li>5.1. Planificar la redacción de textos escritos y multimodales de cierta extensión atendiendo a la situación comunicativa, al destinatario, al propósito y canal; redactar borradores y revisarlos con ayuda del diálogo entre iguales e instrumentos de consulta; y presentar un texto final coherente, cohesionado y con el registro adecuado.</li>\n<li>5.2. Incorporar procedimientos para enriquecer los textos atendiendo a aspectos discursivos, lingüísticos y de estilo, con precisión léxica y corrección ortográfica y gramatical.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"width: 50.6311%; text-align: justify;\">6. Seleccionar y contrastar información procedente de diferentes fuentes de manera progresivamente autónoma, evaluando su fiabilidad y pertinencia en función de los objetivos de lectura y evitando los riesgos de manipulación y desinformación, e integrarla y transformarla en conocimiento, para comunicarla desde un punto de vista crítico y personal a la par que respetuoso con la propiedad intelectual.</td>\n<td style=\"width: 49.3689%; text-align: justify;\">\n<ul>\n<li>6.1. Localizar, seleccionar y contrastar de manera progresivamente autónoma información procedente de diferentes fuentes, calibrando su fiabilidad y pertinencia en función de los objetivos de lectura; organizarla e integrarla en esquemas propios, y reelaborarla y comunicarla de manera creativa adoptando un punto de vista crítico respetando los principios de propiedad intelectual.</li>\n<li>6.2. Elaborar trabajos de investigación de manera progresivamente autónoma en diferentes soportes sobre diversos temas de interés académico, personal o social a partir de la información seleccionada.</li>\n<li>6.3. Adoptar hábitos de uso crítico, seguro, sostenible y saludable de las tecnologías digitales en relación a la búsqueda y la comunicación de la información.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"width: 50.6311%; text-align: justify;\">9. Movilizar el conocimiento sobre la estructura de la lengua y sus usos y reflexionar de manera progresivamente autónoma sobre las elecciones lingüísticas y discursivas, con la terminología adecuada, para desarrollar la conciencia lingüística, para aumentar el repertorio comunicativo y para mejorar las destrezas tanto de producción oral y escrita como de comprensión e interpretación crítica.</td>\n<td style=\"width: 49.3689%; text-align: justify;\">\n<ul>\n<li>9.1. Revisar los textos propios de manera progresivamente autónoma y hacer propuestas de mejora argumentando los cambios a partir de la reflexión metalingüística e interlingüística con el metalenguaje específico.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>\n<h2>Saberes básicos</h2>\n<p>B. <strong>Comunicación</strong>:</p>\n<p style=\"text-align: justify;\">Estrategias de producción, comprensión y análisis crítico de textos orales, escritos y multimodales de diferentes ámbitos, con atención conjunta a los siguientes aspectos:</p>\n<p style=\"text-align: justify;\">1. Contexto: componentes del hecho comunicativo.<br /></p>\n<ul>\n<li style=\"text-align: justify;\">Componentes del hecho comunicativo: grado de formalidad de la situación y carácter público o privado; distancia social entre los interlocutores; propósitos comunicativos e interpretación de intenciones; canal de comunicación y elementos no verbales de la comunicación.</li>\n</ul>\n<p>2. Los géneros discursivos:</p>\n<ul>\n<li style=\"text-align: justify;\">Géneros discursivos propios del ámbito social. Redes sociales y medios de comunicación. Etiqueta digital y riesgos de desinformación, manipulación y vulneración de la privacidad en la red. Análisis de la imagen y de los elementos paratextuales de los textos icónico-verbales y multimodales.</li>\n</ul>\n<p>3. Procesos:</p>\n<ul>\n<li style=\"text-align: justify;\">Interacción oral y escrita de carácter informal y formal: cooperación conversacional y cortesía lingüística. Escucha activa, asertividad y resolución dialogada de los conflictos.</li>\n<li>Comprensión oral: sentido global del texto y relación entre sus partes, selección y retención de la información relevante. La intención del emisor. </li>\n<li style=\"text-align: justify;\">Producción oral formal: planificación y búsqueda de información, textualización y revisión. Adecuación a la audiencia y al tiempo de exposición. Elementos no verbales.</li>\n<li style=\"text-align: justify;\">Producción escrita: planificación, textualización, revisión y edición en diferentes soportes. Usos de la escritura para la organización del pensamiento: toma de notas, esquemas, mapas conceptuales, definiciones, resúmenes, etc.</li>\n<li style=\"text-align: justify;\">Alfabetización mediática e informacional: Búsqueda y selección de la información con criterios de fiabilidad, calidad y pertinencia; análisis, valoración, reorganización y síntesis de la información en esquemas propios y transformación en conocimiento; comunicación y difusión de manera creativa y respetuosa con la propiedad intelectual. Utilización de plataformas virtuales para la realización de proyectos escolares.</li>\n</ul>\n<p>4. Reconocimiento y uso discursivo de los elementos lingüísticos.</p>\n<ul>\n<li style=\"text-align: justify;\">La expresión de la subjetividad en textos de carácter expositivo y argumentativo. Identificación y uso de las variaciones de las formas deícticas (fórmulas de confianza y cortesía) en relación con las situaciones de comunicación.</li>\n<li style=\"text-align: justify;\">Recursos lingüísticos para adecuar el registro a la situación de comunicación.</li>\n<li style=\"text-align: justify;\">Mecanismos de cohesión. Conectores textuales distributivos, de orden, contraste, explicación, causa, consecuencia, condición e hipótesis. Mecanismos de referencia interna, gramaticales y léxicos (nominalizaciones e hiperónimos de significado abstracto).</li>\n<li style=\"text-align: justify;\">Uso coherente de las formas verbales en los textos. Correlación temporal en la coordinación y subordinación de oraciones, y en el discurso relatado.</li>\n<li style=\"text-align: justify;\">Corrección lingüística y revisión ortográfica y gramatical de los textos. Uso de diccionarios, manuales de consulta y de correctores ortográficos en soporte analógico o digital.<br /></li>\n</ul>\n<p>D. <strong>Reflexión sobre la lengua</strong>:</p>\n<ul>\n<li style=\"text-align: justify;\">Estrategias de uso progresivamente autónomo de diccionarios y manuales de gramática para obtener información gramatical básica.</li>\n</ul>\n</div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779092905182-ezgogday3</odePageId>
+      <odeBlockId>block-1779102953453-yx0wk0wr1</odeBlockId>
+      <blockName>Rúbrica de evaluación: exposición oral y video</blockName>
+      <iconName>calculate</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779092905182-ezgogday3</odePageId>
+          <odeBlockId>block-1779102953453-yx0wk0wr1</odeBlockId>
+          <odeIdeviceId>idevice-1779102953449-ls12ujp8v</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Completa la siguiente rúbrica</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1779102953449-ls12ujp8v%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22CONTENIDO.%20Relevancia%20de%20la%20informaci%F3n%20del%20producto.%22%2C%22PRESENTACI%D3N%20DIGITAL.%20Calidad%20de%20la%20informaci%F3n%20ofrecida%20en%20la%20presentaci%F3n%20digital.%22%2C%22INTERVENCI%D3N%20ORAL.%20Calidad%20de%20la%20intervenci%F3n%20oral%20individual%20de%20cada%20alumno.%22%2C%22COHESI%D3N%20DE%20GRUPO.%20Nivel%20de%20cohesi%F3n%20e%20implicaci%F3n%20de%20los%20miembros%20del%20grupo.%22%5D%2C%22scores%22%3A%5B%22SOBRESALIENTE%22%2C%22NOTABLE%22%2C%22BIEN%22%2C%22SUFICIENTE%22%2C%22INSUFICIENTE%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%223%22%2C%22text%22%3A%22El%20producto%20contiene%20informaci%F3n%20relevante%2C%20con%20sus%20caracter%EDsticas%20espec%EDficas%2C%20sus%20ventajas%20e%20inconvenientes%20y%20su%20utilidad%20para%20la%20vida%20cotidiana%20del%20cliente.%22%7D%2C%7B%22weight%22%3A%222.25%22%2C%22text%22%3A%22Le%20falta%20un%20criterio%20de%20los%20anteriormente%20establecidos.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Le%20faltan%20dos%20criterios%20de%20los%20anteriormente%20establecidos.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Le%20faltan%20tres%20criterios%20de%20los%20anteriormente%20establecidos.%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%20cumple%20con%20los%20criterios%20establecidos.%22%7D%5D%2C%5B%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Descriptor%20%282.1%29%22%7D%2C%7B%22weight%22%3A%222.25%22%2C%22text%22%3A%22Le%20falta%20un%20criterio%20de%20los%20anteriormente%20establecidos.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Le%20faltan%20dos%20criterios%20de%20los%20anteriormente%20establecidos.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Le%20faltan%20tres%20criterios%20de%20los%20anteriormente%20establecidos.%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%20cumple%20con%20los%20criterios%20establecidos.%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Descriptor%20%283.1%29%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Le%20falta%20un%20criterio%20de%20los%20anteriormente%20establecidos.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Le%20faltan%20dos%20criterios%20de%20los%20anteriormente%20establecidos.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Le%20faltan%20tres%20criterios%20de%20los%20anteriormente%20establecidos.%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%20cumple%20con%20los%20criterios%20establecidos.%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Descriptor%20%284.1%29%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Le%20falta%20un%20criterio%20de%20los%20anteriormente%20establecidos.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Le%20faltan%20dos%20criterios%20de%20los%20anteriormente%20establecidos.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Le%20faltan%20tres%20criterios%20de%20los%20anteriormente%20establecidos.%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%20cumple%20con%20los%20criterios%20establecidos.%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22CONTENIDO.%20Relevancia%20de%20la%20informaci%F3n%20del%20producto.%22%2C%22PRESENTACI%D3N%20DIGITAL.%20Calidad%20de%20la%20informaci%F3n%20ofrecida%20en%20la%20presentaci%F3n%20digital.%22%2C%22INTERVENCI%D3N%20ORAL.%20Calidad%20de%20la%20intervenci%F3n%20oral%20individual%20de%20cada%20alumno.%22%2C%22COHESI%D3N%20DE%20GRUPO.%20Nivel%20de%20cohesi%F3n%20e%20implicaci%F3n%20de%20los%20miembros%20del%20grupo.%22%5D%2C%22scores%22%3A%5B%22SOBRESALIENTE%22%2C%22NOTABLE%22%2C%22BIEN%22%2C%22SUFICIENTE%22%2C%22INSUFICIENTE%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%223%22%2C%22text%22%3A%22El%20producto%20contiene%20informaci%F3n%20relevante%2C%20con%20sus%20caracter%EDsticas%20espec%EDficas%2C%20sus%20ventajas%20e%20inconvenientes%20y%20su%20utilidad%20para%20la%20vida%20cotidiana%20del%20cliente.%22%7D%2C%7B%22weight%22%3A%222.25%22%2C%22text%22%3A%22Le%20falta%20un%20criterio%20de%20los%20anteriormente%20establecidos.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Le%20faltan%20dos%20criterios%20de%20los%20anteriormente%20establecidos.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Le%20faltan%20tres%20criterios%20de%20los%20anteriormente%20establecidos.%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%20cumple%20con%20los%20criterios%20establecidos.%22%7D%5D%2C%5B%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Descriptor%20%282.1%29%22%7D%2C%7B%22weight%22%3A%222.25%22%2C%22text%22%3A%22Le%20falta%20un%20criterio%20de%20los%20anteriormente%20establecidos.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Le%20faltan%20dos%20criterios%20de%20los%20anteriormente%20establecidos.%22%7D%2C%7B%22weight%22%3A%220.75%22%2C%22text%22%3A%22Le%20faltan%20tres%20criterios%20de%20los%20anteriormente%20establecidos.%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%20cumple%20con%20los%20criterios%20establecidos.%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Descriptor%20%283.1%29%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Le%20falta%20un%20criterio%20de%20los%20anteriormente%20establecidos.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Le%20faltan%20dos%20criterios%20de%20los%20anteriormente%20establecidos.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Le%20faltan%20tres%20criterios%20de%20los%20anteriormente%20establecidos.%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%20cumple%20con%20los%20criterios%20establecidos.%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Descriptor%20%284.1%29%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Le%20falta%20un%20criterio%20de%20los%20anteriormente%20establecidos.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Le%20faltan%20dos%20criterios%20de%20los%20anteriormente%20establecidos.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Le%20faltan%20tres%20criterios%20de%20los%20anteriormente%20establecidos.%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%20cumple%20con%20los%20criterios%20establecidos.%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E%22%2C%22visible-info%22%3Atrue%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%2C%22msgEndGameScore%22%3A%22Completa%20la%20r%FAbrica%20antes%20de%20guardar%20tu%20puntuaci%F3n.%22%2C%22msgScoreScorm%22%3A%22La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20%20de%20un%20paquete%20SCORM.%22%2C%22msgOnlySaveScore%22%3A%22%A1Solo%20puede%20guardar%20la%20puntuaci%F3n%20una%20vez%21%22%2C%22msgYouScore%22%3A%22Su%20puntuaci%F3n%22%2C%22msgOnlySaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20despu%E9s%20de%20cada%20cambio.%20Solo%20puedes%20completarla%20una%20vez.%22%2C%22msgSaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20autom%E1ticamente%20despu%E9s%20de%20cada%20cambio.%22%2C%22msgSeveralScore%22%3A%22Puede%20guardar%20la%20puntuaci%F3n%20tantas%20veces%20como%20quiera%22%2C%22msgYouLastScore%22%3A%22La%20%FAltima%20puntuaci%F3n%20guardada%20es%22%2C%22msgActityComply%22%3A%22Ya%20ha%20realizado%20esta%20actividad.%22%2C%22msgPlaySeveralTimes%22%3A%22Puede%20realizar%20esta%20actividad%20cuantas%20veces%20quiera%22%2C%22msgScore%22%3A%22Puntuaci%F3n%22%2C%22msgWeight%22%3A%22Peso%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li><li class="msgEndGameScore">Completa la rúbrica antes de guardar tu puntuación.</li><li class="msgScoreScorm">La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.</li><li class="msgOnlySaveScore">¡Solo puede guardar la puntuación una vez!</li><li class="msgYouScore">Su puntuación</li><li class="msgOnlySaveAuto">Tu puntuación se guardará después de cada cambio. Solo puedes completarla una vez.</li><li class="msgSaveAuto">Tu puntuación se guardará automáticamente después de cada cambio.</li><li class="msgSeveralScore">Puede guardar la puntuación tantas veces como quiera</li><li class="msgYouLastScore">La última puntuación guardada es</li><li class="msgActityComply">Ya ha realizado esta actividad.</li><li class="msgPlaySeveralTimes">Puede realizar esta actividad cuantas veces quiera</li><li class="msgScore">Puntuación</li><li class="msgWeight">Peso</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779092905182-ezgogday3</odePageId>
+      <odeBlockId>block-1779103501853-4tozkdywn</odeBlockId>
+      <blockName>Encuesta de coevaluación</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779092905182-ezgogday3</odePageId>
+          <odeBlockId>block-1779103501853-4tozkdywn</odeBlockId>
+          <odeIdeviceId>idevice-1779103501852-gdzgapx0y</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeAwqQ2IakW7RVakFNlvdsfa7iZ3rBgzRukFb9Wt2x6TzCk7g/viewform" size="3" width="600" height="500" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779103584578-42qr0hnj9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779103584578-42qr0hnj9</odePageId>
+      <odeBlockId>block-1779110161581-9t4pj9vdl</odeBlockId>
+      <blockName>Créditos y descarga</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779103584578-42qr0hnj9</odePageId>
+          <odeBlockId>block-1779110161581-9t4pj9vdl</odeBlockId>
+          <odeIdeviceId>idevice-1779110161564-lsxylpw62</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Publicista por un día</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Jorge González Jurado</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">Dominio público</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
